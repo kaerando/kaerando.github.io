@@ -1,0 +1,27 @@
+FROM ruby:2.7.8-alpine
+
+# ENV PAGES_REPO_NWO 85yago/85yago.github.io
+
+ENV TZ Asia/Tokyo
+
+RUN apk --no-cache add \
+    g++ \
+    ca-certificates \
+    curl \
+    file \
+    git \
+    make \
+    nodejs \
+    libc6-compat \
+    tzdata \
+    vim && \
+    cp /usr/share/zoneinfo/Asia/Tokyo /etc/localtime && \
+    rm -rf /var/cache/apk/*
+
+RUN git config --global core.filemode false && \
+    git config --global core.autocrlf input && \
+    git config --global --add safe.directory /workspace
+
+RUN gem update bundler
+
+EXPOSE 4000/tcp
