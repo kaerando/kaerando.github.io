@@ -4,4 +4,4 @@ title: kaerando | About
 permalink: /about/
 ---
 
-上田かえのホームページです。仮むい
+上田かえのホームページです。仮むいむい
