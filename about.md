@@ -11,3 +11,4 @@ permalink: /about/
 コンボ/小編成での演奏活動が中心。Swing、Mode、Freeなどのスタイルの音楽が好み。
 
 [Twitter](https://twitter.com/kaerando)
+[Mail](<mailto:fcccp@outlook.jp>)

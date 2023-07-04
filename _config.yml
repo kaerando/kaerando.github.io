@@ -3,7 +3,7 @@ email: yourmail
 
 markdown: kramdown
 theme: dev-portfolio-blog
-resume_url: https://example.com
+resume_url: https://twitter.com/kaerando
 author_name: "UEDA Kae"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kaerando.github.io
