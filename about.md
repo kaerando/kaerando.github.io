@@ -42,7 +42,7 @@ Resumeをクリックするとお問合せフォームに進みます。
 a.k.a かえ、かえらんど、__肉王__...and more!
 <br><br>
 
-#### LESSON
+### LESSON
 
 __料金__
 
@@ -59,7 +59,7 @@ __内容__
 グループレッスンも、スタジオ代を除き同じ値段で承ります。
 <br><br>
 
-#### CONTACT
+### CONTACT
 
 [Twitter](https://twitter.com/kaerando)
 |
@@ -69,4 +69,10 @@ __内容__
 |
 [Facebook](https://www.facebook.com/leng.fripp)
 
+#### [LINE公式アカウント](https://lin.ee/hXeVrjZ)
+
+こちらの方がフォームより手軽かもしれません。
+
+<a href="https://lin.ee/hXeVrjZ"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36"></a>
+<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cm6MjBM2vrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
