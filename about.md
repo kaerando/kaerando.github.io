@@ -42,23 +42,6 @@ Resumeをクリックするとお問合せフォームに進みます。
 a.k.a かえ、かえらんど、__肉王__...and more!
 <br><br>
 
-### LESSON
-
-__料金__
-
-1時間4000円、2時間7000円　&スタジオ代の合計*
-
-*楽器編成、内容に応じスタジオを選ぶため、変動します。
-
-__内容__
-
-アドリブについて、アンサンブルについて等、お気軽に[お問い合わせください！](https://forms.gle/esrb9zryyaf4W3bAA)
-
-楽器の種類は問いませんが、ご自身の楽器を極力ご用意お願いします。
-
-グループレッスンも、スタジオ代を除き同じ値段で承ります。
-<br><br>
-
 ### CONTACT
 
 [Twitter](https://twitter.com/kaerando)
@@ -70,8 +53,6 @@ __内容__
 [Facebook](https://www.facebook.com/leng.fripp)
 
 #### [LINE公式アカウント](https://lin.ee/hXeVrjZ)
-
-こちらの方がフォームより手軽かもしれません。
 
 <a href="https://lin.ee/hXeVrjZ"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36"></a>
 <br><br>
