@@ -16,7 +16,7 @@ _闇の音楽に対する防衛術_
 
 #### [About](https://kaerando.github.io/about/)
 
-このサイトについてと、上田かえについて。
+アバウト。
 <br><br>
 
 #### [Blog](https://kaerando.github.io/blog/)
@@ -27,17 +27,18 @@ _闇の音楽に対する防衛術_
 #### [Resume](https://forms.gle/Ew8yhzvmqbHQUdms5)
 
 Resumeをクリックするとお問合せフォームに進みます。
+ライブの予約、お仕事の依頼、似顔絵などを受付中。
 <br><br><br>
 
 # ABOUT ME
 
-![kae](https://pbs.twimg.com/media/FyhCimYacAUWSId?format=jpg&name=medium)
+![kae](https://pbs.twimg.com/media/F4HTF1maYAAG9un?format=jpg&name=large)
 
 上田かえ|ジャズ・エレキベース奏者
 
-2022年より主に首都圏にて演奏活動を開始。
+主に首都圏にて演奏活動。
 
-コンボ/小編成での演奏活動が中心。Swing、Mode、Freeなどのスタイルの音楽が好み。
+_わかりました。私でお役に立てるのでしたら、お仕えさせていただきましょう。_
 
 a.k.a かえ、かえらんど、__肉王__...and more!
 <br><br>
